@@ -1,0 +1,9 @@
+Navigate to url 'https://www.saucedemo.com/'
+Enter Username  as 'standard_user'
+Enter Password as 'secret_sauce'
+Click 'Login'(#login-button) button
+Verify that 'Swag Labs' is visible
+Click 'Open Menu'(#react-burger-menu-btn) button
+Verify for 'Logout'(#logout_sidebar_link) button and clcik it.
+Verify that 'Login'(#login-button) button  is visible
+End of test
